@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am a master graduate in computer science who loves problem solving and programming<br>i like Pyhton primarily and getting started with R and Scala.
-Professionally I am a data engineer with focus on cloud technlogies specifically Azure.<br>I am proficient with SQL and day to day job revolves around maintaing and optimizing production pipelines, working on efficient transformation procedures using Python and SQL.
+I am a master graduate in computer science who loves problem solving and programming.<br> I like Pyhton primarily and getting started with R and Scala.
+<br>Professionally I am a data engineer with focus on cloud technlogies specifically Azure.
+<br>I am proficient with SQL and day to day job revolves around maintaing and optimizing production pipelines, working on efficient transformation procedures using Python and SQL.
 
 
 ## 🌐 Socials:
